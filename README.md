@@ -53,8 +53,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Restarted system to apply domain changes
 
 📷 Screenshot:
-(Add screenshot of system joined to domain)
-
+![image alt](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/3af3be3b28ac2825da8dd28afcf4a22e2f1a9459/System-joined-domain.png)
 ---
 
 ### 4️⃣ Domain User Login Test
