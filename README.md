@@ -28,7 +28,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Configured static IP address
 - Installed Active Directory Domain Services (AD DS)
 - Promoted server to Domain Controller
-- Created domain: `lab.local`
+- Created domain: `LAB.local`
 
 📷 Screenshot:
 ![image alt](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/bf0a2f15414122af48d25fcee3a0c79ed7b1ce7d/Server-Domain-Controller.png)
@@ -49,7 +49,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 
 - Created second VM using Windows 10
 - Installed Windows 10
-- Joined client machine to domain `lab.local`
+- Joined client machine to domain `LAB.local`
 - Restarted system to apply domain changes
 
 📷 Screenshot:
@@ -62,8 +62,8 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Verified successful login
 
 Example:
-Username: `lab\testuser`
-Password: (assigned password)
+Username: `aabrev`
+Password: (Password!)
 
 📷 Screenshot:
 ![image alt](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/a0c78794577ef13f46efbbc95e89d0450dcb627b/Domain-User-Login_screen.png)
