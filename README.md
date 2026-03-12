@@ -31,7 +31,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Created domain: `lab.local`
 
 📷 Screenshot:
-![image alt]([](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/bf0a2f15414122af48d25fcee3a0c79ed7b1ce7d/Server-Domain-Controller.png))
+![image alt](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/bf0a2f15414122af48d25fcee3a0c79ed7b1ce7d/Server-Domain-Controller.png)
 ---
 
 ### 2️⃣ User Creation
