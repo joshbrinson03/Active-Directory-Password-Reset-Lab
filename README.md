@@ -66,8 +66,7 @@ Username: `lab\testuser`
 Password: (assigned password)
 
 📷 Screenshot:
-(Add screenshot of domain user login screen)
-
+![image alt](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/a0c78794577ef13f46efbbc95e89d0450dcb627b/Domain-User-Login_screen.png)
 ---
 
 ### 5️⃣ Password Reset Simulation
