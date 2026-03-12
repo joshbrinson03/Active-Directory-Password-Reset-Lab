@@ -42,8 +42,7 @@ This project simulates a real-world IT Help Desk scenario where an administrator
 - Verified users appear in ADUC
 
 📷 Screenshot:
-(Add screenshot of created users inside ADUC)
-
+![image alt](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab/blob/0ac0f82d2112f842c1172de8a0b5b968c773584a/Screenshot-Created-Users-ADUC.png)
 ---
 
 ### 3️⃣ Client Machine Setup
